@@ -1,6 +1,8 @@
 Hi,
 
-I am Udit Raikwar from Jabalpur, I have completed Bachelor of Engineering in Information Technology branch from Jabalpur Engineering College with CGPA of 7.66 in 2017. I have completed Senior Secondary School from Kendriya Vidyalaya COD, Jabalpur with aggregate: 79.40% in 2013
+I am Udit Raikwar from Jabalpur, I have completed Bachelor of Engineering in Information Technology branch from Jabalpur Engineering College with CGPA of 7.66 in 2017. I have completed Senior Secondary School from Kendriya Vidyalaya COD, Jabalpur with aggregate 79.40% in 2013.
+
+During engineering I have worked on several individual projects for learning new technologies, ways to complete work in optimized ways and also for fun. In most of the projects I have used C, C++ programming languages and libraries like OpenCV and tools like Wireshark. Using OpenCV I have done couple of projects which includes gesture recognition. Below are short intro to my projects. 
 
 I have done Google Summer of Code with Debian organisation in 2016.
 Work that I have done during GSoC:
