@@ -1,1 +1,1 @@
-This repo contains my resume and short intro
+This repo contains my resume and short intro.
